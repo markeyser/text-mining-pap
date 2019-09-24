@@ -1,7 +1,3 @@
-
-
-
-
 # Machine Learning Intro PAP
 
 With Binder, you can open the notebooks in an executable environment on your web browser. Doing this you don't need to install Anaconda distribution or cloning this repository on your laptop:
@@ -21,24 +17,21 @@ Marcos Aguilera Keyser
 
 ## GitHub location of this course
 
-https://github.com/markeyser/ml-intro-pap
+https://github.com/markeyser/text-mining-pap
 
 ## Session Calendar
 
-- [X] Session 1: 9/5 (Thursday)
-- [X] Session 2: 9/12 (Thursday)
-- [ ] Session 3: 9/13 (Friday)
-- [ ] Session 4: 9/19 (Thursday)
-- [ ] Session 5: 9/26 (Thursday)
-- [ ] Session 6: 10/3 (Thursday)
+- [ ] Session 1: 09/24 (Tuesday)
+- [ ] Session 2: 10/01 (Tuesday)
+- [ ] Session 3: 10/08 (Tuesday)
 
-All sessions in the evening 6-8:30 pm.
+All sessions in the evening 1:30-4:00 pm.
 
 ## What will you take home?
 
 - Good understanding about the Data Science profession
-- Overview of all steps in a ML project
-- Getting familiar with the most popular Python analytical libraries: Numpy, Pandas and Scikit-Learn
+- Overview of all main NLP problems
+- Getting familiar with the most popular Python analytical libraries: Numpy, Pandas and Scikit-Learn, Spacy or NLTK.
 
 ## Teaching style
 
@@ -46,8 +39,6 @@ Each seassion includes:
 
     - Theory
     - Tutorials 
-    
-Also, you are going to work on you own Machine Learning project. You need to choose your problem and the corresponding dataset to use during the course.
 
 ## Python programming
 
@@ -59,6 +50,8 @@ In this course we are going to use:
 - Matplotlib
 - Seaborn
 - Scikit-Learn
+- Spacy
+- NLTK
 - Jupyter Notebooks / Lab
 
 If you don't have the above installation, you can get it following the next section.
@@ -75,7 +68,7 @@ Throughout the course, we will be using datasets publicly available in Kaggle so
 
 This course contains six sections, each one covering the different steps of the machine learning pipeline. 
 
-### Session 1: Frame the problem and Gather the data
+### Session 1: Semantics and Sentiment Analysis
 
 1. [What is Machine Learning?](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S1/01-What-is-Machine-Learning.ipynb)
 2. [Tools for Data Sicience](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S1/02-Tools-for-Data-Science.ipynb)
@@ -92,24 +85,27 @@ This course contains six sections, each one covering the different steps of the 
 6. [Version control for Data Scientists](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S1/05-Data-Science-project-structure.ipynb)
     - [**Tutorial 5**: Getting started with Git and GitHub](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S1/05-Data-Science-project-structure.ipynb)
 
-### Session 2: Data Analysis: Exploratory Data Analysis
+### Session 2: Text Classificaiton
 
-1. [What and why Exploratory Data Analysis EDA?](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S2/01-Introduction.ipynb)
-2. [**Demo**: Exploratory Data Analysis House Price Kaggle Competition](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S2/02-Demo-Data-Analysis.ipynb)
-3. [**Tutorial:** Exploratory Data Analysis with your Kaggle data](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S2/03-Tutorial-Data-Analysis.ipynb)
+### Session 3: Topic Modeling
 
-### Session 3: Data Pre-Processing: Feature Engineering
+## Set up your environment
 
-1. [Introduction](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/01-Introduction.ipynb)
-2. [Missing Data](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/02-Missing-Data.ipynb)
-3. [Cardinality](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/03-Cardinality-Categorical-Variables.ipynb)
-4. [Rare Labels](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/04-Rare-Labels.ipynb)
-5. [Outliers](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/05-Outliers.ipynb)
-6. [Variable Magnitude](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/06-Variable-Magnitude.ipynb)
-7. [**Demo**: Feature Engineering](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/07-Demo-Feature-Engineering.ipynb)
-8. [**Tutorial**: Feature Engineering](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/08-Tutorial-Feature-Engineering.ipynb)
-7. [ML Comparison](https://github.com/markeyser/ml-intro-pap/blob/master/notes-S3/ML-Comparison.pdf)
+Instructions to install Anaconda distribution on a Windows machine:
 
-### Session 4: Variable selection: Feature Selection
-### Session 5: Machine Learning Model Building and Evaluation
-### Session 6: Machine Learning Model Building and Evaluation
+https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+
+
+Instructions to install Anaconda distribution on a Mac / Linux machine:
+
+https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x
+
+
+Git set up for Windows and Mac/Linux machines:
+
+https://www.datacamp.com/community/tutorials/git-setup
+
+
+
+
+
