@@ -6,7 +6,7 @@ With Binder, you can open the notebooks in an executable environment on your web
 
 Please use `nbviewer` if you cannot render the static content of a jupyter notebook:
 
-[![](/imgs/nbviewer.png)](https://nbviewer.jupyter.org/)
+[![](https://user-images.githubusercontent.com/2791223/29387450-e5654c72-8294-11e7-95e4-090419520edb.png)](https://nbviewer.jupyter.org/)
 
 
 ## Instructor
