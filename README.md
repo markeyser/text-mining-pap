@@ -1,4 +1,4 @@
-# Machine Learning Intro PAP
+# Text Mining Intro PAP
 
 With Binder, you can open the notebooks in an executable environment on your web browser. Doing this you don't need to install Anaconda distribution or cloning this repository on your laptop:
 
