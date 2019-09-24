@@ -92,17 +92,3 @@ https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x
 Git set up for Windows and Mac/Linux machines:
 
 https://www.datacamp.com/community/tutorials/git-setup
-
-
-<div class="container">
-  <div class="jumbotron">
-    <h1>Bootstrap Tutorial</h1>
-    <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing
-    responsive, mobile-first projects on the web.</p>
-  </div>
-  <p>This is some text.</p>
-  <p>This is another text.</p>
-</div>
-
-
-
