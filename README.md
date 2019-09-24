@@ -93,8 +93,6 @@ Git set up for Windows and Mac/Linux machines:
 
 https://www.datacamp.com/community/tutorials/git-setup
 
-Hello!
-
 
 
 
