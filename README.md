@@ -1,1 +1,2 @@
-https://mybinder.org/v2/gh/markeyser/text-mining-pap/master
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/markeyser/text-mining-pap/master)
