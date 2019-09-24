@@ -13,7 +13,7 @@ Please use `nbviewer` if you cannot render the static content of a jupyter noteb
 
 Marcos Aguilera Keyser 
 
-[![](/imgs/linkedin.png)](https://www.linkedin.com/in/markeyser/)
+https://www.linkedin.com/in/markeyser/
 
 ## GitHub location of this course
 
