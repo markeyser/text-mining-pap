@@ -86,7 +86,7 @@ This course contains three sections, each one covering the three main NLP applic
 8. Text Classification Assessment
 9. Text Classification Assessment Solution
 10. Introduction to SVM
-Bonus: Sentiment Analysis CNN Demo run
+11. Sentiment Analysis CNN Demo run
 
 ### Session 3: Topic Modeling
 
