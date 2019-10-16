@@ -90,6 +90,10 @@ This course contains three sections, each one covering the three main NLP applic
 
 ### Session 3: Topic Modeling
 
+1. Overview of Topic Modeling
+2. Latent Dirichlet Allocation 1
+3. Latent Dirichlet Allocation 2
+
 ## Set up your environment
 
 Instructions to install Anaconda distribution on a Windows machine:
