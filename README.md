@@ -75,6 +75,19 @@ This course contains three sections, each one covering the three main NLP applic
 
 ### Session 2: Text Classificaiton
 
+0. Introduction to ML Book
+1. Classification Metrics
+2. Confusion Matrix
+3. ML with Scikit Learn
+4. SciKit Learn Primer
+5. Feature Extraction from Text Part I
+6. Feature Extraction from Text Part II
+7. Text Classification Project
+8. Text Classification Assessment
+9. Text Classification Assessment Solution
+10. Introduction to SVM
+Bonus: Sentiment Analysis CNN Demo run
+
 ### Session 3: Topic Modeling
 
 ## Set up your environment
